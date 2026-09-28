@@ -94,8 +94,8 @@ Product Recommendation System/
 | rating   | average rating              |
 | reviews  | number of reviews            |
 
-🔮 Future Improvements
-Add a larger dataset
-Add more recommendation criteria
-Add a graphical user interface
-Explore more advanced recommendation techniques
+## 🔮 Future Improvements
+- Add a larger dataset
+- Add more recommendation criteria
+- Add a graphical user interface
+- Explore more advanced recommendation techniques
